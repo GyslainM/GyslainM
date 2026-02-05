@@ -43,11 +43,4 @@ const gyslain = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-url.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 
----
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GyslainM&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=GyslainM&theme=tokyonight&hide_border=true&background=0D1117)
-
-</div>

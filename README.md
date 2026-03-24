@@ -17,12 +17,24 @@ Building slowly, improving consistently.
 
 ### ✦ Stack
 
-TypeScript, JavaScript, React, Next.js, Expo, Supabase, Tailwind, SQL, Git.
+<p align="left">
+  <img src="https://cdn.simpleicons.org/typescript/8b949e" width="24" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript/8b949e" width="24" alt="JavaScript" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/react/8b949e" width="24" alt="React" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/nextdotjs/8b949e" width="24" alt="Next.js" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/expo/8b949e" width="24" alt="Expo" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/supabase/8b949e" width="24" alt="Supabase" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/tailwindcss/8b949e" width="24" alt="Tailwind CSS" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/postgresql/8b949e" width="24" alt="PostgreSQL" /> &nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/git/8b949e" width="24" alt="Git" />
+</p>
+
+<sup>TypeScript · JavaScript · React · Next.js · Expo · Supabase · Tailwind · SQL · Git</sup>
 
 <br>
 
 ### ✦ Connect
 
-[Website](#) ↗ &nbsp;&nbsp; [LinkedIn](https://linkedin.com/in/gyslainm) ↗ &nbsp;&nbsp; [Email](mailto:hello@example.com) ↗
+[Website](#) ↗ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gyslainmucyo) ↗ &nbsp;&nbsp; [Email](mailto:mucyogyslain@gmail.com) ↗
 
 <br>

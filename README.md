@@ -5,3 +5,6 @@
   </picture>
 </a>
 
+<br>
+
+[portfolio](https://portfolio-pi-pearl-38f8mit10q.vercel.app/) ↗ &nbsp;&nbsp; [linkedin](https://www.linkedin.com/in/gyslainmucyo) ↗ &nbsp;&nbsp; [email](mailto:mucyogyslain@gmail.com) ↗

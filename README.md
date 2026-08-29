@@ -1,13 +1,19 @@
 # Gyslain Mucyo
 
 Web and mobile development. Full-stack leaning. <br>
-Building slowly, improving consistently. 
+Building slowly, improving consistently.
 
 ---
 
 <br>
 
-### ✦ Currently
+### ✦ background
+
+Computer Engineering Technology. Building toward full-stack mastery.
+
+<br>
+
+### ✦ currently
 
 **[`IHUZA`](https://github.com/GyslainM/IHUZA)** — A connectivity platform. <br>
 **[`TimePilot`](https://github.com/GyslainM/timepilot)** — Modern productivity and task management. <br>
@@ -15,7 +21,7 @@ Building slowly, improving consistently.
 
 <br>
 
-### ✦ Stack
+### ✦ stack
 
 <p align="left">
   <img src="https://cdn.simpleicons.org/typescript/8b949e" width="24" alt="TypeScript" /> &nbsp;&nbsp;&nbsp;
@@ -33,8 +39,18 @@ Building slowly, improving consistently.
 
 <br>
 
-### ✦ Connect
+### ✦ activity
 
-[Website](#) ↗ &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/gyslainmucyo) ↗ &nbsp;&nbsp; [Email](mailto:mucyogyslain@gmail.com) ↗
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GyslainM&theme=transparent&hide_border=true&stroke=444C56&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="130" />
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GyslainM&theme=react-dark&bg_color=00000000&hide_border=true&point=8b949e&line=444C56&color=8b949e" width="100%" />
+
+<br>
+
+### ✦ connect
+
+[LinkedIn](https://www.linkedin.com/in/gyslainmucyo) ↗ &nbsp;&nbsp; [Email](mailto:mucyogyslain@gmail.com) ↗
 
 <br>

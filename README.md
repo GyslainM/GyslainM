@@ -45,8 +45,6 @@ Computer Engineering Technology. Building toward full-stack mastery.
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=GyslainM&theme=transparent&hide_border=true&stroke=444C56&ring=8b949e&fire=8b949e&currStreakLabel=8b949e&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" height="130" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=GyslainM&theme=react-dark&bg_color=00000000&hide_border=true&point=8b949e&line=444C56&color=8b949e" width="100%" />
-
 <br>
 
 ### ✦ connect

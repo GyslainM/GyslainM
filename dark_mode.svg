@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="470" viewBox="0 0 854 470">
+
+  <!-- Window background -->
+  <rect width="854" height="470" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="853" height="469" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Title bar -->
+  <rect width="854" height="38" fill="#161b22" rx="10"/>
+  <rect y="28" width="854" height="10" fill="#161b22"/>
+  <line x1="0" y1="38.5" x2="854" y2="38.5" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Traffic lights -->
+  <circle cx="20" cy="19" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="19" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="19" r="6" fill="#27c93f"/>
+
+  <!-- Terminal title -->
+  <text x="427" y="24" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">gyslain@dev ~ neofetch</text>
+
+  <!-- ═══════════════════ CONTENT ═══════════════════ -->
+
+  <!-- Name header -->
+  <text x="32" y="72" font-family="monospace" font-size="14">
+    <tspan fill="#c9d1d9" font-weight="bold">gyslain mucyo</tspan>
+    <tspan fill="#30363d"> ─────────────────────────────────────────────</tspan>
+  </text>
+
+  <!-- Info -->
+  <text x="32" y="100" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">focus</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">web and mobile, full-stack</tspan>
+  </text>
+  <text x="32" y="120" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">background</tspan><tspan fill="#30363d"> ........... </tspan><tspan fill="#c9d1d9">computer engineering technology</tspan>
+  </text>
+
+  <!-- Section: currently -->
+  <text x="32" y="152" font-family="monospace" font-size="13">
+    <tspan fill="#484f58">── </tspan><tspan fill="#8b949e">currently</tspan><tspan fill="#484f58"> ────────────────────────────────────────</tspan>
+  </text>
+
+  <text x="32" y="174" font-family="monospace" font-size="13">
+    <tspan fill="#c9d1d9" font-weight="bold">IHUZA</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#8b949e">a connectivity platform</tspan>
+  </text>
+  <text x="32" y="194" font-family="monospace" font-size="13">
+    <tspan fill="#c9d1d9" font-weight="bold">TimePilot</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#8b949e">productivity and task management</tspan>
+  </text>
+  <text x="32" y="214" font-family="monospace" font-size="13">
+    <tspan fill="#c9d1d9" font-weight="bold">Portfolio</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#8b949e">personal web presence</tspan>
+  </text>
+
+  <!-- Section: stack -->
+  <text x="32" y="246" font-family="monospace" font-size="13">
+    <tspan fill="#484f58">── </tspan><tspan fill="#8b949e">stack</tspan><tspan fill="#484f58"> ────────────────────────────────────────────</tspan>
+  </text>
+
+  <text x="32" y="268" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">languages</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#c9d1d9">TypeScript, JavaScript</tspan>
+  </text>
+  <text x="32" y="288" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">frameworks</tspan><tspan fill="#30363d"> ........... </tspan><tspan fill="#c9d1d9">React, Next.js, Expo</tspan>
+  </text>
+  <text x="32" y="308" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">backend</tspan><tspan fill="#30363d"> .............. </tspan><tspan fill="#c9d1d9">Supabase, PostgreSQL</tspan>
+  </text>
+  <text x="32" y="328" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">styling</tspan><tspan fill="#30363d"> .............. </tspan><tspan fill="#c9d1d9">Tailwind CSS</tspan>
+  </text>
+  <text x="32" y="348" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">tools</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">Git, GitHub, VS Code</tspan>
+  </text>
+
+  <!-- Section: connect -->
+  <text x="32" y="380" font-family="monospace" font-size="13">
+    <tspan fill="#484f58">── </tspan><tspan fill="#8b949e">connect</tspan><tspan fill="#484f58"> ──────────────────────────────────────────</tspan>
+  </text>
+
+  <text x="32" y="402" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">portfolio</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#c9d1d9">portfolio-pi-pearl-38f8mit10q.vercel.app</tspan>
+  </text>
+  <text x="32" y="422" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">linkedin</tspan><tspan fill="#30363d"> ............. </tspan><tspan fill="#c9d1d9">/in/gyslainmucyo</tspan>
+  </text>
+  <text x="32" y="442" font-family="monospace" font-size="13">
+    <tspan fill="#79c0ff">email</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">mucyogyslain@gmail.com</tspan>
+  </text>
+
+</svg>

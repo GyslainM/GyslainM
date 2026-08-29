@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="854" height="470" viewBox="0 0 854 470">
+<svg xmlns="http://www.w3.org/2000/svg" width="854" height="380" viewBox="0 0 854 380">
 
   <!-- Window background -->
-  <rect width="854" height="470" rx="10" fill="#0d1117"/>
-  <rect x="0.5" y="0.5" width="853" height="469" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
+  <rect width="854" height="380" rx="10" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="853" height="379" rx="10" fill="none" stroke="#30363d" stroke-width="1"/>
 
   <!-- Title bar -->
   <rect width="854" height="38" fill="#161b22" rx="10"/>
@@ -69,19 +69,5 @@
     <tspan fill="#79c0ff">tools</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">Git, GitHub, VS Code</tspan>
   </text>
 
-  <!-- Section: connect -->
-  <text x="32" y="380" font-family="monospace" font-size="13">
-    <tspan fill="#484f58">── </tspan><tspan fill="#8b949e">connect</tspan><tspan fill="#484f58"> ──────────────────────────────────────────</tspan>
-  </text>
-
-  <text x="32" y="402" font-family="monospace" font-size="13">
-    <tspan fill="#79c0ff">portfolio</tspan><tspan fill="#30363d"> ............ </tspan><tspan fill="#c9d1d9">portfolio-pi-pearl-38f8mit10q.vercel.app</tspan>
-  </text>
-  <text x="32" y="422" font-family="monospace" font-size="13">
-    <tspan fill="#79c0ff">linkedin</tspan><tspan fill="#30363d"> ............. </tspan><tspan fill="#c9d1d9">/in/gyslainmucyo</tspan>
-  </text>
-  <text x="32" y="442" font-family="monospace" font-size="13">
-    <tspan fill="#79c0ff">email</tspan><tspan fill="#30363d"> ................ </tspan><tspan fill="#c9d1d9">mucyogyslain@gmail.com</tspan>
-  </text>
 
 </svg>
